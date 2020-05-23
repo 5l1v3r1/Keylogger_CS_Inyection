@@ -1,0 +1,7 @@
+O:\OneDrive - xKx\SoftwareProyect\C#\[GitHub] Keylogger_CSharp\Keylogger Code\bin\Debug\Keylogger Code.exe.config
+O:\OneDrive - xKx\SoftwareProyect\C#\[GitHub] Keylogger_CSharp\Keylogger Code\bin\Debug\Keylogger Code.exe
+O:\OneDrive - xKx\SoftwareProyect\C#\[GitHub] Keylogger_CSharp\Keylogger Code\bin\Debug\Keylogger Code.pdb
+O:\OneDrive - xKx\SoftwareProyect\C#\[GitHub] Keylogger_CSharp\Keylogger Code\obj\Debug\Keylogger Code.csprojAssemblyReference.cache
+O:\OneDrive - xKx\SoftwareProyect\C#\[GitHub] Keylogger_CSharp\Keylogger Code\obj\Debug\Keylogger Code.csproj.CoreCompileInputs.cache
+O:\OneDrive - xKx\SoftwareProyect\C#\[GitHub] Keylogger_CSharp\Keylogger Code\obj\Debug\Keylogger Code.exe
+O:\OneDrive - xKx\SoftwareProyect\C#\[GitHub] Keylogger_CSharp\Keylogger Code\obj\Debug\Keylogger Code.pdb
